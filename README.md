@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nikita3549
-- 👀 I’m interested in NodeJS
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in TypeScript
+- 🌱 I’m currently working on skyhelp.md
 - 📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/
-- My Page https://4034307-mh41971.twc1.net
+- tg: @nikita3549
+- My Page https://nikitatsarenko.ru - it's empty for now 😔
 
 <!---
 Nikita3549/Nikita3549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
