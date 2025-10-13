@@ -2,9 +2,8 @@
 - 👀 I’m interested in TypeScript
 - 🌱 I’m currently working on skyhelp.md
 - 🤓 B2 English Level - https://cert.efset.org/en/iPNoZ6
-- 📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/
-- tg: @nikita3549
-- My Page https://nikitatsarenko.ru - it's empty for now 😔
+- 📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/, tg: @nikita3549
+- My Page https://nikitatsarenko.ru - that's empty for now 😔
 
 <!---
 Nikita3549/Nikita3549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
