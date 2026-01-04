@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikita3549
-- 👀 I’m interested in TypeScript
+- 👀 I’m interested in NestJs
 - 🌱 I’m currently working on skyhelp.md
 - 🤓 B2 English Level - https://cert.efset.org/en/iPNoZ6
 - 📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/, tg: @nikita3549
