@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nikita3549<br>👀 I’m interested in NestJs<br>🌱 I’m currently working on skyhelp.md<br>🤓 B2 English Level - https://cert.efset.org/en/iPNoZ6<br>📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/, tg: @nikita3549<br>📝 Personal blog: https://t.me/thought_compilation<br>📊 My Page https://nikitatsarenko.ru - that's empty for now 😔
+👋 Hi, I’m @Nikita3549<br>👀 I’m interested in NestJs<br>🌱 I’m currently working on skyhelp.md<br>🤓 B2 English Level - https://cert.efset.org/en/iPNoZ6<br>📫 How to reach me: https://www.linkedin.com/in/nikita-tsarenko-59418b344/, tg: @nikita3549<br>📝 Personal blog: https://t.me/thought_compilation
 
 
 ## 🌐 Socials:
