@@ -6,5 +6,5 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitatsarenko7@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Nikita3549&theme=dark&hide_border=false&refresh=2)<br/>
+![](https://streak-stats.demolab.com/?user=Nikita3549&theme=dark&hide_border=false&refreshh=123)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
